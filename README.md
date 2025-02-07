@@ -12,7 +12,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-Nice projet to get an overview of what Frontend Mentor has to offer
+Nice projet to get an overview of what Frontend Mentor has to offer.
 
 ### Screenshot
 
