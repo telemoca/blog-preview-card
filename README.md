@@ -20,7 +20,7 @@ Nice projet to get an overview of what Frontend Mentor has to offer.
 
 ### Links
 
-- Live Site URL: https://telemoca.github.io/QR-code_FEM/
+- Live Site URL: https://telemoca.github.io/blog-preview-card/
 
 ### Built with
 
